@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
 <head>
     <link href="css/bootstrap.css" rel="stylesheet" />
@@ -14,3 +14,4 @@
 	<script type="text/javascript"></script>
 	<title>{{$title}}</title>
 </head>
+<body>
